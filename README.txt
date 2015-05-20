@@ -3,8 +3,7 @@ These functions are free software; you can redistribute it and/or modify them un
 These functions are distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 Maintained by:  Stephen Douglass <smdougla@ucla.edu>
-Summary:        A set of functions for discovering novel microRNAs from small RNA sequence data
-                using a Naive Bayes Classifier approach.
+Summary:        A set of functions for discovering novel microRNAs from small RNA sequence data using a Naive Bayes Classifier approach.
 Dependencies:   Bioinformatics toolbox
 		Bowtie short read aligner
 
